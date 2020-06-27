@@ -10,6 +10,12 @@ const TrackListScreen = ({ navigation }) => {
   </>
 };
 
+// TrackListScreen.navigationOptions = () => {
+//   return {
+//     header: () => false,
+//   };
+// };
+
 const styles = StyleSheet.create({});
 
 export default TrackListScreen;
